@@ -31,10 +31,6 @@ Use clear, imperative-style messages. Example: `Fix typo in CONTRIBUTING.md` or 
 
 For tiny fixes (typos, docs), a single small PR is preferred.
 
-## Licensing and CLA
-
-By contributing you confirm that your contributions are your original work (or you have the right to submit them) and that you agree to the terms of the project CLA. See `CLA-template.md` for details.
-
 ## Questions
 
 If you're unsure how to proceed, open an issue explaining your idea and tag maintainers for guidance.
