@@ -1,0 +1,119 @@
+Kane Boswell Ethical Copyleft (KBEC-1.0)
+Version 1.0
+
+PREAMBLE
+The intent of the Kane Boswell Ethical Copyleft (KBEC) is to promote software that remains permanently free, source-available, and safe for all users. This license grants permission to use and modify the software, provided that it is never sold, never made closed-source, and never used for malicious purposes.
+
+NOTE: This is an "Ethical Source-Available" license, not a standard Open Source Initiative (OSI) definition license, due to the non-commercial and field-of-use restrictions.
+
+DEFINITIONS
+"The Software" refers to the specific files, documents, or source code distributed under this License by the Licensor.
+"Source Code" refers to the preferred form of the work for making modifications (e.g., original scripts, text files).
+"Larger Work" refers to a work that combines The Software with other separate files or software components not governed by this License (such as MPL-2.0 libraries).
+"You" refers to the individual or legal entity exercising rights under this License.
+
+GRANT OF RIGHTS
+Subject to the terms and conditions of this License, You are granted a worldwide, royalty-free, non-exclusive license to:
+a. Use, reproduce, and execute The Software.
+b. Modify The Software and create derivative works.
+c. Distribute The Software and your modifications, provided they remain under this License.
+
+CONDITIONS AND RESTRICTIONS
+
+3.1 The "Free Forever" Rule (Non-Commercial)
+You may NOT sell, license, sub-license, rent, lease, or monetize The Software in any way.
+a. No Paywalls: You may not distribute The Software behind a paywall, within a subscription service, or as part of a paid application.
+b. Donation Exception: You may accept voluntary donations, tips, or sponsorships, provided that such payments are optional and do not unlock exclusive rights, features, or access to The Software.
+
+3.2 The Ethical Use Rule (Anti-Malware)
+You may not use, modify, or distribute The Software to create, disseminate, or deploy malware, spyware, viruses, ransomware, or any software designed to damage, disrupt, or gain unauthorized access to computer systems, networks, or user data.
+a. Exception for Research: This restriction does not prevent the use of The Software for defensive security research, penetration testing, system administration, or educational purposes, provided such activities are conducted with authorization and do not cause malicious harm.
+
+3.3 The Source Requirement (Strong Copyleft)
+a. Source Availability: If You distribute The Software (or any modified version of it), You must make the Source Code publicly available and easily accessible.
+b. No Closed Source: You may not distribute The Software exclusively in binary, compiled, or obfuscated forms. You may distribute compiled versions only if the corresponding Source Code is also provided or easily accessible to the recipient.
+
+3.4 Network and SaaS Use (The "Website" Clause)
+If You run The Software on a server and allow users to interact with it remotely through a computer network (e.g., as a website, web application, or backend service), You must provide a reasonable mechanism for those users to download the Source Code of The Software (and any modifications You have made) at no cost.
+
+3.5 Attribution
+You must retain all copyright, patent, trademark, and attribution notices present in the Source Code. If You distribute The Software as part of a Larger Work, You must provide a visible credit to the original authors where reasonably possible (e.g., in the documentation, "About" section, or repository metadata). You may not rebrand The Software in a way that obscures its origin or claims it as your own work without credit.
+
+PATENT LICENSE AND PROTECTION
+a. Grant: Each contributor grants You a non-exclusive, worldwide, royalty-free patent license to make, use, and distribute The Software. (Note: The right to "sell" is excluded to maintain consistency with Section 3.1).
+b. Defensive Termination: If You initiate patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that The Software constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License terminate as of the date such litigation is filed.
+
+COMPATIBILITY AND LARGER WORKS
+This License is a file-level license. You may combine The Software with components licensed under the Mozilla Public License 2.0 (MPL-2.0) or other open-source licenses to create a "Larger Work."
+a. Separation of Terms: In such cases, this License applies ONLY to the files originally governed by the KBEC-1.0 and any modifications to them. The other components remain subject to their own respective licenses.
+b. No Conflict: Nothing in this License is intended to restrict the rights granted by the MPL-2.0 regarding those separate components.
+
+LICENSE EVOLUTION
+You may distribute this Software under the terms of this version of the License or any later version of the Kane Boswell Ethical Copyleft published by the original author.
+a. Restriction on Relicensing: To strictly enforce the non-commercial and ethical nature of this project, You may NOT relicense this Software under any other terms (such as the MIT, GPL, or Apache licenses) that would permit commercial sale, closed-source distribution, or malicious use.
+
+TERMINATION AND CURE
+a. Automatic Termination: Your rights under this License terminate automatically if You fail to comply with any of its terms.
+b. Cure Period: However, if You become compliant with all terms within thirty (30) days of becoming aware of the violation (or receiving notice of it), Your rights under this License will be reinstated retroactively.
+
+DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.Kane Boswell Ethical Copyleft (KBEC-1.0)
+Version 1.0
+
+PREAMBLE
+The intent of the Kane Boswell Ethical Copyleft (KBEC) is to promote software that remains permanently free, source-available, and safe for all users. This license grants permission to use and modify the software, provided that it is never sold, never made closed-source, and never used for malicious purposes.
+
+NOTE: This is an "Ethical Source-Available" license, not a standard Open Source Initiative (OSI) definition license, due to the non-commercial and field-of-use restrictions.
+
+DEFINITIONS
+"The Software" refers to the specific files, documents, or source code distributed under this License by the Licensor.
+"Source Code" refers to the preferred form of the work for making modifications (e.g., original scripts, text files).
+"Larger Work" refers to a work that combines The Software with other separate files or software components not governed by this License (such as MPL-2.0 libraries).
+"You" refers to the individual or legal entity exercising rights under this License.
+
+GRANT OF RIGHTS
+Subject to the terms and conditions of this License, You are granted a worldwide, royalty-free, non-exclusive license to:
+a. Use, reproduce, and execute The Software.
+b. Modify The Software and create derivative works.
+c. Distribute The Software and your modifications, provided they remain under this License.
+
+CONDITIONS AND RESTRICTIONS
+
+3.1 The "Free Forever" Rule (Non-Commercial)
+You may NOT sell, license, sub-license, rent, lease, or monetize The Software in any way.
+a. No Paywalls: You may not distribute The Software behind a paywall, within a subscription service, or as part of a paid application.
+b. Donation Exception: You may accept voluntary donations, tips, or sponsorships, provided that such payments are optional and do not unlock exclusive rights, features, or access to The Software.
+
+3.2 The Ethical Use Rule (Anti-Malware)
+You may not use, modify, or distribute The Software to create, disseminate, or deploy malware, spyware, viruses, ransomware, or any software designed to damage, disrupt, or gain unauthorized access to computer systems, networks, or user data.
+a. Exception for Research: This restriction does not prevent the use of The Software for defensive security research, penetration testing, system administration, or educational purposes, provided such activities are conducted with authorization and do not cause malicious harm.
+
+3.3 The Source Requirement (Strong Copyleft)
+a. Source Availability: If You distribute The Software (or any modified version of it), You must make the Source Code publicly available and easily accessible.
+b. No Closed Source: You may not distribute The Software exclusively in binary, compiled, or obfuscated forms. You may distribute compiled versions only if the corresponding Source Code is also provided or easily accessible to the recipient.
+
+3.4 Network and SaaS Use (The "Website" Clause)
+If You run The Software on a server and allow users to interact with it remotely through a computer network (e.g., as a website, web application, or backend service), You must provide a reasonable mechanism for those users to download the Source Code of The Software (and any modifications You have made) at no cost.
+
+3.5 Attribution
+You must retain all copyright, patent, trademark, and attribution notices present in the Source Code. If You distribute The Software as part of a Larger Work, You must provide a visible credit to the original authors where reasonably possible (e.g., in the documentation, "About" section, or repository metadata). You may not rebrand The Software in a way that obscures its origin or claims it as your own work without credit.
+
+PATENT LICENSE AND PROTECTION
+a. Grant: Each contributor grants You a non-exclusive, worldwide, royalty-free patent license to make, use, and distribute The Software. (Note: The right to "sell" is excluded to maintain consistency with Section 3.1).
+b. Defensive Termination: If You initiate patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that The Software constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License terminate as of the date such litigation is filed.
+
+COMPATIBILITY AND LARGER WORKS
+This License is a file-level license. You may combine The Software with components licensed under the Mozilla Public License 2.0 (MPL-2.0) or other open-source licenses to create a "Larger Work."
+a. Separation of Terms: In such cases, this License applies ONLY to the files originally governed by the KBEC-1.0 and any modifications to them. The other components remain subject to their own respective licenses.
+b. No Conflict: Nothing in this License is intended to restrict the rights granted by the MPL-2.0 regarding those separate components.
+
+LICENSE EVOLUTION
+You may distribute this Software under the terms of this version of the License or any later version of the Kane Boswell Ethical Copyleft published by the original author.
+a. Restriction on Relicensing: To strictly enforce the non-commercial and ethical nature of this project, You may NOT relicense this Software under any other terms (such as the MIT, GPL, or Apache licenses) that would permit commercial sale, closed-source distribution, or malicious use.
+
+TERMINATION AND CURE
+a. Automatic Termination: Your rights under this License terminate automatically if You fail to comply with any of its terms.
+b. Cure Period: However, if You become compliant with all terms within thirty (30) days of becoming aware of the violation (or receiving notice of it), Your rights under this License will be reinstated retroactively.
+
+DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
