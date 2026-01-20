@@ -1,5 +1,7 @@
 # Kane Boswell Ethical Copyleft (KBEC-1.0)
 
+[![License: KBEC-1.0](https://img.shields.io/badge/License-KBEC--1.0-006400?style=flat-square)](LICENSE)
+
 Clean license, clean software.
 
 ## Overview
