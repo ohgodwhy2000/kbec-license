@@ -17,9 +17,7 @@ Be respectful and professional. Report unacceptable behavior by opening an issue
 
 - **Describe:** Link the issue and explain the change briefly.
 - **Clean commits:** Rebase/squash related work into logical commits.
-- **Tests:** Add or update tests if applicable.
 - **Formatting:** Run repository linters and formatters if present.
-- **CLA:** Sign the Contributor License Agreement. See `CLA-template.md` for the template and instructions.
 
 ## Writing Style
 
